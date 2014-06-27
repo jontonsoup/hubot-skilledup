@@ -1,5 +1,15 @@
 [
+"ackbar.coffee",
+"advice.coffee",
+"animal.coffee",
+"ascii.coffee",
+"buscemi.coffee",
+"carlton.coffee",
+"catfacts.coffee",
+"chess.coffee",
+"chuck-norris.coffee",
+"dealwithit.coffee",
+"email.coffee",
 "redis-brain.coffee",
-"shipit.coffee",
-"ackbar.coffee"
+"shipit.coffee"
 ]
