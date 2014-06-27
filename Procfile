@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n slack
+web: bin/hubot --adapter slack
